@@ -15,7 +15,7 @@ HTML · CSS · JavaScript · React · Core Java · SQL · Manual Testing
 ## 📈 GitHub Stats
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush712gupta&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush712gupta&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ayush712gupta&theme=dark)](https://git.io/streak-stats)
+
 
 ## 📫 Reach me
 - LinkedIn: linkedin.com/in/ayush712gupta
