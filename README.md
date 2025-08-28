@@ -10,6 +10,7 @@ HTML · CSS · JavaScript · React · Core Java · SQL · Manual Testing
 
 ## 🌟 Featured Projects
 - Cybersecurity Awareness Game – quizzes, simulations, Botpress chatbot (live/demo links below)
+- https://ayush712gupta.github.io/CyberSecurityAwarenessGame/ 
 
 ## 📈 GitHub Stats
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush712gupta&show_icons=true)
