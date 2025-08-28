@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ayush 👋
+Recent BSc IT grad | Aspiring Java Full Stack Dev | Web Dev & Cybersecurity
 
-<!--
-**ayush712gupta/ayush712gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech Stack
+HTML · CSS · JavaScript · React · Core Java · SQL · Manual Testing
 
-Here are some ideas to get you started:
+## 🔭 Current
+- Building projects to sharpen full-stack skills
+- Learning advanced Java + React patterns
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+- Cybersecurity Awareness Game – quizzes, simulations, Botpress chatbot (live/demo links below)
+
+## 📈 GitHub Stats
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush712gupta&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush712gupta&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ayush712gupta)](https://git.io/streak-stats)
+
+## 📫 Reach me
+- LinkedIn: linkedin.com/in/ayush712gupta
+- Email: yourmail@example.com
