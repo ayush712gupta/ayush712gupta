@@ -18,4 +18,4 @@ HTML · CSS · JavaScript · React · Core Java · SQL · Manual Testing
 
 ## 📫 Reach me
 - LinkedIn: linkedin.com/in/ayush712gupta
-- Email: yourmail@example.com
+- Email: guptaayush8625@gmail.com
